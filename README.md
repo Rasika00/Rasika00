@@ -8,7 +8,7 @@
 <hr>
 
 <p style="background-color: black;">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rasika00&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff&icon_color=ff0000&border_color=ff0000" alt="rasika00" style="width: 20%; height: 10px;" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rasika00&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff&icon_color=ff0000&border_color=ff0000" alt="rasika00" style="width: 100%; height: 50%;" />
 </p>
 
 
