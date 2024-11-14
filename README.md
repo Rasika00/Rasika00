@@ -16,7 +16,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasika00&" alt="rasika00" /></p>
+
 
 
 <h2 align="center">Languages and Tools:</h2>
