@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rasika Priyanath</h1>
 <h3 align="center"> # Tech Enthusiast | Software Developer | Web Developer #</h3>
 
-<p align="left" style="background-color:black;"> <img src="https://komarev.com/ghpvc/?username=rasika00&label=Profile%20views&color=0e75b6&style=flat" alt="rasika00" /> </p>
+<p align="right" style="background-color:black;"> <img src="https://komarev.com/ghpvc/?username=rasika00&label=Profile%20views&color=0e75b6&style=flat" alt="rasika00" /> </p>
 
 - 🌱 I’m currently learning **JAVA**
-
 - ⚡ Fun fact **Call me as Ghost**
+<hr>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/rasika priyanath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rasika priyanath" height="30" width="40" /></a>
 <a href="https://fb.com/rasika priyanath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rasika priyanath" height="30" width="40" /></a>
 <a href="https://instagram.com/ras_ika0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ras_ika0" height="30" width="40" /></a>
