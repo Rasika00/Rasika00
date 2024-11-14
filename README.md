@@ -7,7 +7,10 @@
 - ⚡ Fun fact **Call me as Ghost**
 <hr>
 
-<p style="background-color: black;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rasika00&show_icons=true&locale=en&layout=compact"&bg_color=000000&text_color=ffffff" alt="rasika00" /></p>
+<p style="background-color: black;">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rasika00&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff" alt="rasika00" />
+</p>
+
 
 <div align="right">
     <img src="https://github-readme-stats.vercel.app/api?username=rasika00&show_icons=true&locale=en&bg_color=000000&text_color=ffffff" alt="rasika00" />
