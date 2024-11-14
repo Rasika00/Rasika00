@@ -9,9 +9,9 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/rasika priyanath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rasika priyanath" height="30" width="40" /></a>
-<a href="https://fb.com/rasika priyanath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rasika priyanath" height="30" width="40" /></a>
-<a href="https://instagram.com/ras_ika0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ras_ika0" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rasika priyanath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rasika priyanath" height="35" width="45" /></a>
+<a href="https://fb.com/rasika priyanath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rasika priyanath" height="35" width="45" /></a>
+<a href="https://instagram.com/ras_ika0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ras_ika0" height="35" width="45" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
