@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rasika Priyanath</h1>
 <h3 align="center"> # Tech Enthusiast | Software Developer | Web Developer #</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rasika00&label=Profile%20views&color=0e75b6&style=flat" alt="rasika00" /> </p>
+<p align="left" style="background-color:black;"> <img src="https://komarev.com/ghpvc/?username=rasika00&label=Profile%20views&color=0e75b6&style=flat" alt="rasika00" /> </p>
 
 - 🌱 I’m currently learning **JAVA**
 
