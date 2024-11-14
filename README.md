@@ -13,7 +13,7 @@
 
 
 <div align="right">
-    <img src="https://github-readme-stats.vercel.app/api?username=rasika00&show_icons=true&locale=en&bg_color=000000&text_color=ffffff&icon_color=ff0000&border_color=ff0000" alt="rasika00" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rasika00&show_icons=true&locale=en&bg_color=000000&text_color=ffffff&icon_color=ff0000&border_color=ff0000" alt="rasika00" style="width: 50%; height: 40%;" />
 </div>
 
 
