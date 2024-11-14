@@ -3,8 +3,8 @@
 
 <p align="right" style="background-color:black;"> <img src="https://komarev.com/ghpvc/?username=rasika00&label=Profile%20views&color=0e75b6&style=flat" alt="rasika00" /> </p>
 
-- <h4>🌱 I’m currently learning **JAVA**</h4>
-- <h4>⚡ Fun fact **Call me as Ghost**</h4>
+- 🌱 I’m currently learning **JAVA**
+- ⚡ Fun fact **Call me as Ghost**
 <hr>
 
 <p style="background-color: black;">
