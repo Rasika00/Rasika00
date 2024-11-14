@@ -9,7 +9,7 @@
 
 <p style="background-color: black;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rasika00&show_icons=true&locale=en&layout=compact" alt="rasika00" /></p>
 
-<div style="text-align: right;">
+<div align="right">
     <img src="https://github-readme-stats.vercel.app/api?username=rasika00&show_icons=true&locale=en&bg_color=000000&text_color=ffffff" alt="rasika00" />
 </div>
 
