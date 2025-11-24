@@ -34,6 +34,6 @@
 ---
 
 
-<div align="center"><img  width="30%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rasika00&theme=tokyonight" /> -  |  - <img  width="37%" src="https://github-readme-stats.vercel.app/api?username=Rasika004&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight" /></div>
+<div align="center"><img  width="30%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rasika00&theme=tokyonight" /> -  |  - <img  width="38.5%" src="https://github-readme-stats.vercel.app/api?username=Rasika004&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight" /></div>
 
 
