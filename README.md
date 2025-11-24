@@ -8,6 +8,12 @@
 - ⚡ Fun fact **Call me as Ghost**
 ---
 
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+
+--=
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="c" width="60" height="60"/></a> 
