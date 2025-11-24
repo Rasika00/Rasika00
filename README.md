@@ -22,6 +22,7 @@
 ---
 
 
-<img  width="55%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rasika00&theme=tokyonight" align="center" /> | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Rasika004&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) 
+<img  width="30%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rasika00&theme=tokyonight" align="center" /> 
+<img width="30%" src="https://github-readme-stats.vercel.app/api?username=Rasika004&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight" align="center" />
 
 
