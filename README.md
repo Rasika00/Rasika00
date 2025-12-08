@@ -33,8 +33,9 @@
 ---
 
 
-<div align="center"><img  width="30%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rasika00&theme=tokyonight" /> -  |  - <img  width="38.5%" src="https://github-readme-stats.vercel.app/api?username=Rasika004&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight" /></div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rasika00&show_icons=true&locale=en&layout=compact" alt="rasika00" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rasika00&show_icons=true&locale=en" alt="rasika00" /></p>
 ---
 
 <h3 align="left">Connect with me:</h3>
