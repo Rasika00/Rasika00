@@ -40,12 +40,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rasika00&locale=en&hide_title=false&layout=compact&card_width=460&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/rasika priyanath" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="rasika priyanath" height="50" width="60" /></a>
-<a href="https://fb.com/rasika priyanath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rasika priyanath" height="50" width="60" /></a>
-<a href="https://instagram.com/ras_ika0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ras_ika0" height="50" width="60" /></a>
 </p>
 
 ---
