@@ -36,9 +36,10 @@
 <br clear="both">
 
 <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rasika00&show_icons=true&locale=en&theme=dracula&hide_border=false&order=2" alt="rasika00" /></p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rasika00&locale=en&hide_title=false&layout=compact&card_width=460&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
-</div>
+  <img align="center" width="45%" src="https://github-readme-stats.shion.dev/api?username=Rasika00&theme=dark&show_icons=true&count_private=true" alt="Rasika's GitHub Stats" />
+  
+  <img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Rasika00&theme=dark" alt="Rasika's GitHub Streak" /> 
+</div>s
 
 </p>
 
